@@ -1,0 +1,22 @@
+body{
+	background-color: red; 
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+nav{
+	text-align: right;
+}
+nav ul{
+	
+}
+nav ul li{
+	list-style: none;
+	margin-left:12px ;
+	display: inline;
+	
+
+}
+nav ul li a{
+	text-decoration: none;
+}
